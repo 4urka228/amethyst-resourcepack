@@ -1,22 +1,18 @@
-\## Amethyst
+## Amethyst
 
-\### Supported
+### Supported
 
 MC Version: 1.16-1.16.5+
 
-\### Dependencies
+### Dependencies
 
-\- CIT Resewn or Optifine
+- CIT Resewn or Optifine
+- Model gap fix (optional)
 
-\- Model gap fix (optional)
-
-\---
+---
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c3d97e5d-d89c-4406-8443-e61c166241a0" />
 
-
-
-<img width="1920" height="231" alt="{2D42F2DE-5F97-436F-A5FA-7CD5B688F1A4}" src="https://github.com/user-attachments/assets/6fc9e891-8385-4f2c-a29a-38ce36ed5411" />
-
+<img width="1920" height="231" alt="image" src="https://github.com/user-attachments/assets/6fc9e891-8385-4f2c-a29a-38ce36ed5411" />
 
 
