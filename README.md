@@ -1,4 +1,4 @@
-## Amethyst
+## Ametrine
 ![Minecraft Version:](https://img.shields.io/badge/Minecraft-1.16.5%2B-8A2BE2?style=for-the-badge&logo=minecraft) ![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
 
 ### Dependencies
